@@ -1,0 +1,57 @@
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\bin\Debug\Recursion.exe
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\bin\Debug\Recursion.pdb
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\obj\Debug\MainWindow.g.cs
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\obj\Debug\App.g.cs
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion_MarkupCompile.cache
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion_MarkupCompile.lref
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\obj\Debug\MainWindow.baml
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.g.resources
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.Properties.Resources.resources
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.csproj.GenerateResource.Cache
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.exe
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.pdb
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\bin\Debug\Recursion.exe.config
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.exe
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.pdb
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\bin\Debug\Recursion.exe
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\bin\Debug\Recursion.pdb
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.csprojResolveAssemblyReference.cache
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\obj\Debug\MainWindow.g.cs
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\obj\Debug\App.g.cs
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion_MarkupCompile.cache
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion_MarkupCompile.lref
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\obj\Debug\MainWindow.baml
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.g.resources
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.Properties.Resources.resources
+F:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\Recursion\obj\Debug\Recursion.csproj.GenerateResource.Cache
+F:\Учеба\ТИиИО\Labs\Recursion\bin\Debug\Recursion.exe.config
+F:\Учеба\ТИиИО\Labs\Recursion\obj\Debug\Recursion.exe
+F:\Учеба\ТИиИО\Labs\Recursion\obj\Debug\Recursion.pdb
+F:\Учеба\ТИиИО\Labs\Recursion\bin\Debug\Recursion.exe
+F:\Учеба\ТИиИО\Labs\Recursion\bin\Debug\Recursion.pdb
+F:\Учеба\ТИиИО\Labs\Recursion\obj\Debug\Recursion.csprojResolveAssemblyReference.cache
+F:\Учеба\ТИиИО\Labs\Recursion\obj\Debug\MainWindow.g.cs
+F:\Учеба\ТИиИО\Labs\Recursion\obj\Debug\App.g.cs
+F:\Учеба\ТИиИО\Labs\Recursion\obj\Debug\Recursion_MarkupCompile.cache
+F:\Учеба\ТИиИО\Labs\Recursion\obj\Debug\Recursion_MarkupCompile.lref
+F:\Учеба\ТИиИО\Labs\Recursion\obj\Debug\MainWindow.baml
+F:\Учеба\ТИиИО\Labs\Recursion\obj\Debug\Recursion.g.resources
+F:\Учеба\ТИиИО\Labs\Recursion\obj\Debug\Recursion.Properties.Resources.resources
+F:\Учеба\ТИиИО\Labs\Recursion\obj\Debug\Recursion.csproj.GenerateResource.Cache
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\bin\Debug\Recursion.exe
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\bin\Debug\Recursion.pdb
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\Recursion.csprojResolveAssemblyReference.cache
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\MainWindow.g.cs
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\App.g.cs
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\Recursion_MarkupCompile.cache
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\Recursion_MarkupCompile.lref
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\MainWindow.baml
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\Recursion.g.resources
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\Recursion.Properties.Resources.resources
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\Recursion.csproj.GenerateResource.Cache
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\Recursion.exe
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\Recursion\obj\Debug\Recursion.pdb

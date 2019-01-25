@@ -1,0 +1,55 @@
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\bin\Debug\IterationMethod.exe.config
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\obj\Debug\MainWindow.g.cs
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\obj\Debug\App.g.cs
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod_MarkupCompile.cache
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\bin\Debug\IterationMethod.exe
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\bin\Debug\IterationMethod.pdb
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\obj\Debug\MainWindow.baml
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.g.resources
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.Properties.Resources.resources
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.csproj.GenerateResource.Cache
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.exe
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.pdb
+C:\Users\1\Documents\ОГУ\ТИиИО\IterationMethod\IterationMethod\bin\Debug\Microsoft.Solver.Foundation.dll
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\bin\Debug\IterationMethod.exe.config
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\bin\Debug\IterationMethod.exe
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\bin\Debug\IterationMethod.pdb
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.csprojResolveAssemblyReference.cache
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\obj\Debug\MainWindow.baml
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\obj\Debug\MainWindow.g.cs
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\obj\Debug\App.g.cs
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod_MarkupCompile.cache
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.g.resources
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.Properties.Resources.resources
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.csproj.GenerateResource.Cache
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.csproj.CoreCompileInputs.cache
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.exe
+D:\Учеба\1\Лабы\Лабы\ТИиИО\IterationMethod\IterationMethod\obj\Debug\IterationMethod.pdb
+F:\Учеба\ТИиИО\Labs\IterationMethod\bin\Debug\IterationMethod.exe.config
+F:\Учеба\ТИиИО\Labs\IterationMethod\obj\Debug\IterationMethod.exe
+F:\Учеба\ТИиИО\Labs\IterationMethod\obj\Debug\IterationMethod.pdb
+F:\Учеба\ТИиИО\Labs\IterationMethod\bin\Debug\IterationMethod.exe
+F:\Учеба\ТИиИО\Labs\IterationMethod\bin\Debug\IterationMethod.pdb
+F:\Учеба\ТИиИО\Labs\IterationMethod\obj\Debug\IterationMethod.csprojResolveAssemblyReference.cache
+F:\Учеба\ТИиИО\Labs\IterationMethod\obj\Debug\MainWindow.baml
+F:\Учеба\ТИиИО\Labs\IterationMethod\obj\Debug\MainWindow.g.cs
+F:\Учеба\ТИиИО\Labs\IterationMethod\obj\Debug\App.g.cs
+F:\Учеба\ТИиИО\Labs\IterationMethod\obj\Debug\IterationMethod_MarkupCompile.cache
+F:\Учеба\ТИиИО\Labs\IterationMethod\obj\Debug\IterationMethod.g.resources
+F:\Учеба\ТИиИО\Labs\IterationMethod\obj\Debug\IterationMethod.Properties.Resources.resources
+F:\Учеба\ТИиИО\Labs\IterationMethod\obj\Debug\IterationMethod.csproj.GenerateResource.Cache
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\bin\Debug\IterationMethod.exe.config
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\bin\Debug\IterationMethod.exe
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\bin\Debug\IterationMethod.pdb
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\obj\Debug\IterationMethod.csprojResolveAssemblyReference.cache
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\obj\Debug\MainWindow.baml
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\obj\Debug\MainWindow.g.cs
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\obj\Debug\App.g.cs
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\obj\Debug\IterationMethod_MarkupCompile.cache
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\obj\Debug\IterationMethod.g.resources
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\obj\Debug\IterationMethod.Properties.Resources.resources
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\obj\Debug\IterationMethod.csproj.GenerateResource.Cache
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\obj\Debug\IterationMethod.csproj.CoreCompileInputs.cache
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\obj\Debug\IterationMethod.exe
+C:\Users\Keira\Downloads\Telegram Desktop\Labs\IterationMethod\obj\Debug\IterationMethod.pdb
